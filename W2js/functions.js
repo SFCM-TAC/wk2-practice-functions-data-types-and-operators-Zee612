@@ -28,8 +28,6 @@ function labelOrder(list) {
   // NOTE: inputs should be an array with exactly five items
   return ["first:" + list[0],"second:" + list[1],"third:" + list[2], "fourth:"+list[3],"fifth:"+list[4]]
 //new answer
-
-
 var = resultArray = Array(5)
 resultArray[0]= "first: " + list[0]
 return resultArray
